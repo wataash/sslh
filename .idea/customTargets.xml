@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="03d41da9-6591-4362-8270-c9b1b97d3524" name="cbt0" projectName="sslh">
+      <configuration id="72af2235-0fe5-4977-9cc2-249b0c2c608a" name="cbt0">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_etecho" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>

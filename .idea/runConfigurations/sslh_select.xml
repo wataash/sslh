@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sslh-select" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-v -f -n -t10 -u=wsh -plocalhost:8080 --ssh=localhost:22 --http=localhost:9080 --anyprot=localhost:9876" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sslh" TARGET_NAME="cbt0" CONFIG_NAME="cbt0" RUN_PATH="$PROJECT_DIR$/sslh-select">
+    <method v="2">
+      <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
